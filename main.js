@@ -1,7 +1,7 @@
 let x = 0;
 let y = 0;
 let interval;
-let speed = 100;
+let speed = 1;
 let imgWidth = 100; // Linked with css
 let imgHeight = 100; // Linked with css
 let minX = 0;
